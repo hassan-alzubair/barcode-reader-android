@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <PreferenceCategory android:title="Connection Info">
+
+        <EditTextPreference
+            android:defaultValue="127.0.0.1"
+            android:key="ip"
+            android:summary="IP Address of the computer"
+            android:title="IP Address" />
+
+        <EditTextPreference
+            android:defaultValue="9090"
+            android:key="port"
+            android:summary="Port number"
+            android:title="Port Number" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Camera Options">
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="focus"
+            android:summary="Enable camera auto focus on barcode"
+            android:title="Auto Focus" />
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

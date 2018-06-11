@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/id1"
+        android:title="Scanner Control">
+        <menu>
+            <item
+                android:id="@+id/start"
+                android:icon="@drawable/ic_play_arrow_white"
+                android:title="Start" />
+
+            <item
+                android:id="@+id/stop"
+                android:icon="@drawable/ic_pause"
+                android:title="Stop" />
+            <item
+                android:id="@+id/flash"
+                android:icon="@drawable/ic_flash_on_white"
+                android:title="Toggle Flash" />
+
+        </menu>
+    </item>
+
+
+    <item
+        android:id="@+id/id2"
+        android:title="Application">
+        <menu>
+            <item
+                android:id="@+id/settings"
+                android:icon="@drawable/ic_settings_applications_white"
+                android:title="Settings" />
+
+            <item
+                android:id="@+id/textConnection"
+                android:icon="@drawable/ic_desktop_mac_white"
+                android:title="Test Connection" />
+
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_help_white"
+                android:title="About" />
+
+        </menu>
+    </item>
+
+
+</menu>

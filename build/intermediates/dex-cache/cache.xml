@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\6ad773d174a18a57cd67476a6dba6344\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f18c2f9e1e7f118e594d80b45dbfefe3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f90f2829bc25ec3507d335dfc602eb9d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bcb309cab2259e1859ff15f86bb78f35\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\ead9450f0ee2dc6db0434a8aafbbe8f6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1a29a15ac4b494b9839af186d5603268\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.3.0.aar\7b060e05ad2b1b5cace49c7cd5ff916d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1f895f1b2a768c95f6d784b8999d6e57\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\dc8b25aa752fb7e9af68e395b2cf13f9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\core-1.9.8.aar\e81d116353c6f9e52e08ea85726d85bb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b723383fcc5c9e6d233f12cf3670c153dcb9f72">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4f12b37923ed967c1dcc7f3d5107f994\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0b55248d2a4fb0b63ad011f393b93048\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\core-1.9.8.aar\c41da759b3f20fc97ac430afc9b327a5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b723383fcc5c9e6d233f12cf3670c153dcb9f72">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\39aa7fa8a91be1ceea3e28e0ed4c9c0c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\da4d709441d40de29611540b0dc77e71\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6f94d9c0b37c01d3559cf27b9d1468bb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1bf042d6337c5d9a44a0b9077394b073\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6280ec4259d4e48da6487b71894ff74c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\52c59a432b2fe950570641c59cca77f1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\38d6c35930e2155041462f5a6a25a89c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e3ccd425dc2c6ef58e0f3b900a67f755\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\zxing-1.9.8.aar\d3ee15e3e4a3a6166ff01f72fb263bbe\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="414c5172d9739a35339700d133288418059e7d83">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\269a7126917d9aade4006a8ad4938ff9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.3.0.aar\a0046fd892be5026398ead5e2a0d44da\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\06451204566d75a0bde16b928c428862\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\fb381685d730b9f97680d1fc9612a6ba\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\85d2634da8ef670494fa2c47051a7c97\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\877a5d01de4a94031615596c27d12d86\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\zxing-1.9.8.aar\8e0520fa0721e378d4c35879a19f7653\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="414c5172d9739a35339700d133288418059e7d83">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\3975365628f49475624e547f99cf25a7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Hassan\AndroidStudioProjects\BarcodeReader4\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+
+</items>
